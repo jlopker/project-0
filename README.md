@@ -10,7 +10,7 @@ Building a race game using HTML, CSS, and Javascript
 
 #Existing Features
 ・Two player game
-・Player One using 'A' key, Player Two using 'L' key to move foward
+・Player One using 'A' key, Player Two using 'L' key to move forward
 ・Alerts the winner of the game
 ・Reset game
 
@@ -20,5 +20,3 @@ Player select own avatar
 Add background music
 Add intresting backgroung image
 Animation for the entire game
-
-

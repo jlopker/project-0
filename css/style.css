@@ -15,9 +15,10 @@ p {
   font-size: 20px;
 }
 
-img{
+#start{
   float: left;
 }
+
 
 .reset{
   text-align: center;

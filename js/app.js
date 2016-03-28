@@ -32,6 +32,7 @@ $('.start').append(playerTwo);
         if(position1 === 40){
           alert("Rabbit wins!");
         }
+
 //playerTwo Turtle
       } if(event.which === 108) {
         console.log('l pressed');
