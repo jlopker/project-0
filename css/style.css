@@ -1,0 +1,17 @@
+.h1 {
+	font-size: 70px;
+  text-align: auto;
+  color: blue;
+}
+
+.p {
+  text-align: center;
+}
+
+.box {
+  border: 1px solid black;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  height: 60px;
+  color: #;
+}
