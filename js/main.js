@@ -1,7 +1,9 @@
 $(document).ready(function(){
 console.log("sanity check");
 
-	var playerOne = 'A' ;
+	var playerOne = new Image(25, 25);
+playerOne.src ="http://www.adiumxtras.com/images/pictures/8bit_mega_man_1_20276_6496_image_9810.png";
+playerOne.id = "playerOne";
   $('.start').append(playerOne);
 
   var playerTwo ='B';
