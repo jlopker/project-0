@@ -20,3 +20,5 @@ Player select own avatar
 Add background music
 Add intresting backgroung image
 Animation for the entire game
+
+testing
